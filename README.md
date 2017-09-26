@@ -13,16 +13,16 @@ Server
 Debian / Ubuntu:
 
     apt-get install git
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/zijingteng/shadowsocksr.git
 
 CentOS:
 
     yum install git
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/zijingteng/shadowsocksr.git
 
 Windows:
 
-    git clone https://github.com/shadowsocksr/shadowsocksr.git
+    git clone https://github.com/zijingteng/shadowsocksr.git
 
 ### Usage for single user on linux platform
 
